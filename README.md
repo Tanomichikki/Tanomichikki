@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, there! I'm Vibhushit</h1>
 <h3 align="center">Passionate about Cloud Solutions, Python Programming and Machine Learning</h3>
 
-- 🌱 I’m currently learning **AWS Cloud platform**
+- 🌱 I’m currently learning **AWS Cloud platform and practising DSA**
 
 - 💬 Ask me about **Python, MySQL, AWS, Data Structures and Algorithms, OPenCV and Tensorflow**
 
