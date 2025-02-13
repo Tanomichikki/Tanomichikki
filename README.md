@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud platform**
 
-- 💬 Ask me about **Programming, Data Structures and Algorithms**
+- 💬 Ask me about **Python, MySQL, AWS, Data Structures and Algorithms, OPenCV and Tensorflow**
 
 - 📄 Know about my experiences [my_resume@gmail.com](my_resume@gmail.com)
 
