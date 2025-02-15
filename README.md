@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **Python, MySQL, AWS, Data Structures and Algorithms, OPenCV and Tensorflow**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16iuPGjsta9gjaMbDE3UOEoQgFAfgfuzo/view?usp=sharing](https://drive.google.com/file/d/16iuPGjsta9gjaMbDE3UOEoQgFAfgfuzo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
